@@ -14,5 +14,5 @@ Open the EvasivePDFSamples.ipynb file in Jupyter Notebook and run the cells. The
 
 ## Group members
 - Florentia-Styliani Diamantopoulou (up202311354@edu.fe.up.pt)
-- Domingo (upxxxxxxxxx@edu.fe.up.pt)
+- Domingos (up202108728@edu.fe.up.pt)
 - Maria Mitkou (up202311354@edu.fe.up.pt)
